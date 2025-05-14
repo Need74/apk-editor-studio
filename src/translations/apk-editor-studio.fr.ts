@@ -134,12 +134,12 @@
     </message>
     <message>
         <source>&amp;Device Manager...</source>
-        <extracomment>This string refers to multiple devices (as in &quot;Manager of devices&quot;).</extracomment>
+        <extracomment>This string refers to multiple devices (as in 'Manager of devices').</extracomment>
         <translation>&amp;Gestionnaire d&apos;appareils...</translation>
     </message>
     <message>
         <source>&amp;Key Manager...</source>
-        <extracomment>This string refers to multiple keys (as in &quot;Manager of keys&quot;).</extracomment>
+        <extracomment>This string refers to multiple keys (as in 'Manager of keys').</extracomment>
         <translation>&amp;Gestionnaire de clés...</translation>
     </message>
     <message>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>&amp;Open APK...</source>
-        <translation>&amp;Ouvrir un APK...</translation>
+        <translation>&amp;Ouvrir l&apos;APK &amp;&amp; décompiler...</translation>
     </message>
     <message>
         <source>Case Sensitive</source>
@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>&amp;Framework Manager...</source>
-        <extracomment>This string refers to multiple frameworks (as in &quot;Manager of frameworks&quot;).</extracomment>
+        <extracomment>This string refers to multiple frameworks (as in 'Manager of frameworks').</extracomment>
         <translation>Gestionaire de &amp;Frameworks...</translation>
     </message>
 </context>
@@ -188,17 +188,17 @@
     </message>
     <message>
         <source>Installing %1...</source>
-        <extracomment>&quot;%1&quot; will be replaced with a path to the APK.</extracomment>
+        <extracomment>'%1' will be replaced with a path to the APK.</extracomment>
         <translation>Installation de &quot;%1&quot;...</translation>
     </message>
     <message>
         <source>Successfully installed %1</source>
-        <extracomment>&quot;%1&quot; will be replaced with a path to the APK.</extracomment>
+        <extracomment>'%1' will be replaced with a path to the APK.</extracomment>
         <translation>Installation complète de &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Could not install %1</source>
-        <extracomment>&quot;%1&quot; will be replaced with a path to the APK.</extracomment>
+        <extracomment>'%1' will be replaced with a path to the APK.</extracomment>
         <translation>Impossible d&apos;installer &quot;%1&quot;</translation>
     </message>
     <message>
@@ -288,7 +288,7 @@
     </message>
     <message>
         <source>Updating Smali references...</source>
-        <extracomment>&quot;Smali&quot; is the name of the tool/format, don&apos;t translate it.</extracomment>
+        <extracomment>'Smali' is the name of the tool/format, don't translate it.</extracomment>
         <translation>Mise à jour des références Smali...</translation>
     </message>
     <message>
@@ -324,7 +324,7 @@
     <message>
         <source>&amp;Open Resource Directory</source>
         <extracomment>This string refers to a single resource.</extracomment>
-        <translation>&amp;Ouvrir le dossier &quot;Ressource&quot;</translation>
+        <translation>&amp;Ouvrir le dossier de la ressource</translation>
     </message>
 </context>
 <context>
@@ -400,7 +400,7 @@
     <name>DeviceManager</name>
     <message>
         <source>Device Manager</source>
-        <extracomment>This string refers to multiple devices (as in &quot;Manager of devices&quot;).</extracomment>
+        <extracomment>This string refers to multiple devices (as in 'Manager of devices').</extracomment>
         <translation>Gestionnaire des appareils</translation>
     </message>
     <message>
@@ -455,17 +455,17 @@
     </message>
     <message>
         <source>Downloading %1...</source>
-        <extracomment>&quot;%1&quot; will be replaced with a title of the downloaded file.</extracomment>
+        <extracomment>'%1' will be replaced with a title of the downloaded file.</extracomment>
         <translation>Téléchargement de &quot;%1&quot;...</translation>
     </message>
     <message>
         <source>Could not save %1:</source>
-        <extracomment>&quot;%1&quot; will be replaced with a title of the saved file.</extracomment>
+        <extracomment>'%1' will be replaced with a title of the saved file.</extracomment>
         <translation>Impossible d&apos;enregistrer &quot;%1&quot;:</translation>
     </message>
     <message>
         <source>Could not download %1:</source>
-        <extracomment>&quot;%1&quot; will be replaced with a title of the downloaded file.</extracomment>
+        <extracomment>'%1' will be replaced with a title of the downloaded file.</extracomment>
         <translation>Impossible de télécharger &quot;%1&quot;:</translation>
     </message>
 </context>
@@ -491,12 +491,12 @@
     <name>FrameworkManager</name>
     <message>
         <source>Framework Manager</source>
-        <extracomment>This string refers to multiple frameworks (as in &quot;Manager of frameworks&quot;).</extracomment>
+        <extracomment>This string refers to multiple frameworks (as in 'Manager of frameworks').</extracomment>
         <translation>Gestionaire de Framework</translation>
     </message>
     <message>
         <source>&amp;Install</source>
-        <extracomment>The &quot;&amp;&quot; is a shortcut key prefix, not an &quot;and&quot; conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
+        <extracomment>The '&amp;' is a shortcut key prefix, not an 'and' conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
         <translation>&amp;Installer</translation>
     </message>
     <message>
@@ -509,12 +509,12 @@
     </message>
     <message>
         <source>Could not install the &quot;%1&quot; framework.</source>
-        <extracomment>&quot;%1&quot; will be replaced with a framework file name.</extracomment>
+        <extracomment>'%1' will be replaced with a framework file name.</extracomment>
         <translation>Impossible d&apos;installer le Framework &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Could not remove the &quot;%1&quot; framework.</source>
-        <extracomment>&quot;%1&quot; will be replaced with a framework file name.</extracomment>
+        <extracomment>'%1' will be replaced with a framework file name.</extracomment>
         <translation>Impossible de supprimer le Framework &quot;%1&quot;.</translation>
     </message>
 </context>
@@ -715,7 +715,7 @@
     <name>LogView</name>
     <message>
         <source>Log</source>
-        <extracomment>&quot;Log&quot; as in event log, message log, etc.</extracomment>
+        <extracomment>'Log' as in event log, message log, etc.</extracomment>
         <translation>Journal (log)</translation>
     </message>
 </context>
@@ -792,17 +792,17 @@
     </message>
     <message>
         <source>Open &amp;New Window</source>
-        <extracomment>The &quot;&amp;&quot; is a shortcut key prefix, not an &quot;and&quot; conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
+        <extracomment>The '&amp;' is a shortcut key prefix, not an 'and' conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
         <translation>Ouvrir une &amp;nouvelle fenêtre</translation>
     </message>
     <message>
         <source>&amp;About APK Editor Studio...</source>
-        <extracomment>Don&apos;t translate the &quot;APK Editor Studio&quot; part.</extracomment>
+        <extracomment>Don't translate the 'APK Editor Studio' part.</extracomment>
         <translation>&amp;À propos de APK Editor Studio...</translation>
     </message>
     <message>
         <source>About &amp;Qt...</source>
-        <extracomment>Don&apos;t translate the &quot;&amp;Qt&quot; part.</extracomment>
+        <extracomment>Don't translate the 'Qt' part.</extracomment>
         <translation>À propos de &amp;Qt...</translation>
     </message>
     <message>
@@ -813,7 +813,7 @@
         <source>This APK is already open:
 %1
 Do you want to reopen it and lose any unsaved changes?</source>
-        <extracomment>&quot;%1&quot; will be replaced with a path to an APK.</extracomment>
+        <extracomment>'%1' will be replaced with a path to an APK.</extracomment>
         <translation>Cet APK est déjà ouvert :
 %1
 Voulez-vous le rouvrir et perdre les modifications non enregistrées ?</translation>
@@ -826,7 +826,7 @@ Voulez-vous les annuler et quitter ?</translation>
     </message>
     <message>
         <source>%1 not found. Restore the default path?</source>
-        <extracomment>&quot;%1&quot; will be replaced with a tool name.</extracomment>
+        <extracomment>'%1' will be replaced with a tool name.</extracomment>
         <translation>&quot;%1&quot; non trouvé.&lt;br/&gt;Restaurer le chemin par défaut ?</translation>
     </message>
 </context>
@@ -869,7 +869,7 @@ Voulez-vous les annuler et quitter ?</translation>
     </message>
     <message>
         <source>Open .apk files in an existing window</source>
-        <extracomment>Don&apos;t translate the &quot;.apk&quot; part.</extracomment>
+        <extracomment>Don't translate the '.apk'; part.</extracomment>
         <translation>Ouvrir le fichier .apk dans la fenêtre existante</translation>
     </message>
     <message>
@@ -882,17 +882,17 @@ Voulez-vous les annuler et quitter ?</translation>
     </message>
     <message>
         <source>Use APK Editor Studio for .apk files</source>
-        <extracomment>Don&apos;t translate the &quot;APK Editor Studio&quot; and &quot;.apk&quot; parts.</extracomment>
+        <extracomment>Don't translate the 'APK Editor Studio' and '.apk' parts.</extracomment>
         <translation>Utiliser APK Editor Studio pour les fichiers .apk</translation>
     </message>
     <message>
         <source>Use APK Editor Studio to open .apk files</source>
-        <extracomment>Don&apos;t translate the &quot;APK Editor Studio&quot; and &quot;.apk&quot; parts.</extracomment>
+        <extracomment>Don't translate the 'APK Editor Studio' and '.apk' parts.</extracomment>
         <translation>Utiliser APK Editor Studio pour ouvrir les fichiers .apk</translation>
     </message>
     <message>
         <source>Add %1 action to Windows Explorer context menu</source>
-        <extracomment>&quot;%1&quot; will be replaced with an action name (e.g., Install, Optimize, Sign, etc.).</extracomment>
+        <extracomment>'%1' will be replaced with an action name (e.g., Install, Optimize, Sign, etc.).</extracomment>
         <translation>Ajouter l&apos;action &quot;%1&quot; au menu contextuel de l&apos;Explorateur Windows</translation>
     </message>
     <message>
@@ -935,17 +935,17 @@ Voulez-vous les annuler et quitter ?</translation>
     </message>
     <message>
         <source>Initial heap size:</source>
-        <extracomment>&quot;Heap&quot; refers to a memory heap. If there is no clear translation in your language, you may also put the original English word in the parentheses.</extracomment>
+        <extracomment>'Heap' refers to a memory heap. If there is no clear translation in your language, you may also put the original English word in the parentheses.</extracomment>
         <translation>Taille initiale du Tag :</translation>
     </message>
     <message>
         <source>Maximum heap size:</source>
-        <extracomment>&quot;Heap&quot; refers to a memory heap. If there is no clear translation in your language, you may also put the original English word in the parentheses.</extracomment>
+        <extracomment>'Heap' refers to a memory heap. If there is no clear translation in your language, you may also put the original English word in the parentheses.</extracomment>
         <translation>Taille maximale du Tag :</translation>
     </message>
     <message>
         <source>Apktool path:</source>
-        <extracomment>&quot;Apktool&quot; is the name of the tool, don&apos;t translate it.</extracomment>
+        <extracomment>'Apktool' is the name of the tool, don't translate it.</extracomment>
         <translation>Chemin de Apktool :</translation>
     </message>
     <message>
@@ -962,7 +962,7 @@ Voulez-vous les annuler et quitter ?</translation>
     </message>
     <message>
         <source>Decompile source code (smali)</source>
-        <extracomment>&quot;Smali&quot; is the name of the tool/format, don&apos;t translate it.</extracomment>
+        <extracomment>"Smali" is the name of the tool/format, don't translate it.</extracomment>
         <translation>Décompiler le code source (Smali)</translation>
     </message>
     <message>
@@ -975,7 +975,7 @@ Voulez-vous les annuler et quitter ?</translation>
     </message>
     <message>
         <source>Use AAPT2</source>
-        <extracomment>&quot;AAPT2&quot; is the name of the tool, don&apos;t translate it.</extracomment>
+        <extracomment>"AAPT2" is the name of the tool, don't translate it.</extracomment>
         <translation>Utiliser AAPT2</translation>
     </message>
     <message>
@@ -988,12 +988,12 @@ Voulez-vous les annuler et quitter ?</translation>
     </message>
     <message>
         <source>Open Key Manager</source>
-        <extracomment>This string refers to multiple keys (as in &quot;Manager of keys&quot;).</extracomment>
+        <extracomment>This string refers to multiple keys (as in 'Manager of keys').</extracomment>
         <translation>Ouvrir le gestionnaire de clés</translation>
     </message>
     <message>
         <source>Apksigner path:</source>
-        <extracomment>&quot;Apksigner&quot; is the name of the tool, don&apos;t translate it.</extracomment>
+        <extracomment>"Apksigner" is the name of the tool, don't translate it.</extracomment>
         <translation>Chemin de Apksigner :</translation>
     </message>
     <message>
@@ -1002,17 +1002,17 @@ Voulez-vous les annuler et quitter ?</translation>
     </message>
     <message>
         <source>Zipalign path:</source>
-        <extracomment>&quot;Zipalign&quot; is the name of the tool, don&apos;t translate it.</extracomment>
+        <extracomment>"Zipalign" is the name of the tool, don't translate it.</extracomment>
         <translation>Chemin de Zipalign :</translation>
     </message>
     <message>
         <source>Open Device Manager</source>
-        <extracomment>This string refers to multiple devices (as in &quot;Manager of devices&quot;).</extracomment>
+        <extracomment>This string refers to multiple devices (as in 'Manager of devices').</extracomment>
         <translation>Ouvrir le gestionnaire d&apos;appareils</translation>
     </message>
     <message>
         <source>ADB path:</source>
-        <extracomment>&quot;ADB&quot; is the name of the tool, don&apos;t translate it.</extracomment>
+        <extracomment>'ADB' is the name of the tool, don't translate it.</extracomment>
         <translation>Chemin de ADB :</translation>
     </message>
     <message>
@@ -1091,7 +1091,7 @@ Voulez-vous les annuler et quitter ?</translation>
     <name>PermissionEditor</name>
     <message>
         <source>Permission Editor</source>
-        <extracomment>This string refers to multiple permissions (as in &quot;Editor of permissions&quot;).</extracomment>
+        <extracomment>This string refers to multiple permissions (as in 'Editor of permissions').</extracomment>
         <translation>Éditeur de permission</translation>
     </message>
     <message>
@@ -1108,7 +1108,7 @@ Voulez-vous les annuler et quitter ?</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the %1 permission?</source>
-        <extracomment>%1 will be replaced with a programmatic Android permission name (e.g., &quot;android.permission.SEND_SMS&quot;, &quot;android.permission.CAMERA&quot;, etc.).</extracomment>
+        <extracomment>'%1' will be replaced with a programmatic Android permission name (e.g., 'android.permission.SEND_SMS', 'android.permission.CAMERA', etc.).</extracomment>
         <translation>Voulez-vous vraiment supprimer l&apos;autorisation %1 ?</translation>
     </message>
 </context>
@@ -1177,7 +1177,7 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     </message>
     <message>
         <source>O&amp;pen Contents</source>
-        <extracomment>Displayed as &quot;Open Contents&quot;.</extracomment>
+        <extracomment>Displayed as 'Open Contents'.</extracomment>
         <translation>Ou&amp;vrir les contenus</translation>
     </message>
     <message>
@@ -1186,17 +1186,17 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     </message>
     <message>
         <source>&amp;Project Manager</source>
-        <extracomment>This string refers to a single project (as in &quot;Manager of a project&quot;).</extracomment>
+        <extracomment>This string refers to a single project (as in 'Manager of a project').</extracomment>
         <translation>&amp;Gestion du projet</translation>
     </message>
     <message>
         <source>Edit Application &amp;Title</source>
-        <extracomment>The &quot;&amp;&quot; is a shortcut key prefix, not an &quot;and&quot; conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
+        <extracomment>The '&amp;' is a shortcut key prefix, not an 'and' conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
         <translation>Éditer le &amp;titre de l&apos;application</translation>
     </message>
     <message>
         <source>Edit Application &amp;Permissions</source>
-        <extracomment>The &quot;&amp;&quot; is a shortcut key prefix, not an &quot;and&quot; conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
+        <extracomment>The '&amp;' is a shortcut key prefix, not an 'and' conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
         <translation>Éditer les &amp;permissions de l&apos;application</translation>
     </message>
     <message>
@@ -1205,7 +1205,7 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     </message>
     <message>
         <source>View &amp;Signatures</source>
-        <extracomment>The &quot;&amp;&quot; is a shortcut key prefix, not an &quot;and&quot; conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
+        <extracomment>The '&amp;' is a shortcut key prefix, not an 'and' conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
         <translation>Visualiser la &amp;signature</translation>
     </message>
     <message>
@@ -1214,12 +1214,12 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <extracomment>The &quot;&amp;&quot; is a shortcut key prefix, not an &quot;and&quot; conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
+        <extracomment>The '&amp;' is a shortcut key prefix, not an 'and' conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
         <translation>Sauvegarder s&amp;ous...</translation>
     </message>
     <message>
         <source>Ta&amp;b</source>
-        <extracomment>Displayed as &quot;Tab&quot;. Refers to a menu bar (along with File, Edit, View, Window, Help, and similar items).</extracomment>
+        <extracomment>Displayed as 'Tab'. Refers to a menu bar (along with File, Edit, View, Window, Help, and similar items).</extracomment>
         <translation>&amp;Onglet</translation>
     </message>
     <message>
@@ -1231,7 +1231,7 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     <name>ProjectSheet</name>
     <message>
         <source>Project Manager</source>
-        <extracomment>This string refers to a single project (as in &quot;Manager of a project&quot;).</extracomment>
+        <extracomment>This string refers to a single project (as in 'Manager of a project').</extracomment>
         <translation>Gestionnaire de projet</translation>
     </message>
     <message>
@@ -1262,7 +1262,7 @@ Toutes les modifications non enregistrées seront perdues.</translation>
 <context>
     <name>RememberDialog</name>
     <message>
-        <source>Don&apos;t show again</source>
+        <source>Don't show again</source>
         <translation>Ne plus montrer</translation>
     </message>
 </context>
@@ -1334,7 +1334,7 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     <name>SearchModel</name>
     <message>
         <source>%1 result(s) in %2 file(s)</source>
-        <extracomment>&quot;%1&quot; and &quot;%2&quot; will be replaced with arbitrary numbers representing the search results.</extracomment>
+        <extracomment>'%1' and '%2' will be replaced with arbitrary numbers representing the search results.</extracomment>
         <translation>&quot;%1&quot; résultat(s) dans &quot;%2&quot; fichier(s)</translation>
     </message>
 </context>
@@ -1342,12 +1342,12 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     <name>SearchSheet</name>
     <message>
         <source>Searching in %1</source>
-        <extracomment>&quot;%1&quot; will be replaced with a path to the file.</extracomment>
+        <extracomment>'%1' will be replaced with a path to the file.</extracomment>
         <translation>Recherche dans &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Replacing in %1</source>
-        <extracomment>&quot;%1&quot; will be replaced with a path to the file.</extracomment>
+        <extracomment>'%1' will be replaced with a path to the file.</extracomment>
         <translation>Remplacement dans &quot;%1&quot;</translation>
     </message>
     <message>
@@ -1356,7 +1356,7 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     </message>
     <message>
         <source>Found %1 result(s) in %2 file(s)</source>
-        <extracomment>&quot;%1&quot; and &quot;%2&quot; will be replaced with arbitrary numbers representing the search results.</extracomment>
+        <extracomment>'%1' and '%2' will be replaced with arbitrary numbers representing the search results.</extracomment>
         <translation>&quot;%1&quot; résultat(s) trouvé(s) dans &quot;%2&quot; fichier(s)</translation>
     </message>
     <message>
@@ -1365,7 +1365,7 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     </message>
     <message>
         <source>Replaced %1 occurrence(s) in %2 file(s)</source>
-        <extracomment>&quot;%1&quot; and &quot;%2&quot; will be replaced with arbitrary numbers representing the search results.</extracomment>
+        <extracomment>'%1' and '%2' will be replaced with arbitrary numbers representing the search results.</extracomment>
         <translation>&quot;%1&quot; occorrence(s) remplacée(s) dans &quot;%2&quot; fichier(s)</translation>
     </message>
     <message>
@@ -1420,7 +1420,7 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     </message>
     <message>
         <source>Signer #%1</source>
-        <extracomment>&quot;%1&quot; will be replaced with a signer index number (e.g., &quot;Signer #1, Signer #7, Signer #42&quot;...).</extracomment>
+        <extracomment>'%1' will be replaced with a signer index number (e.g., 'Signer #1, Signer #7, Signer #42'...).</extracomment>
         <translation>Signature #%1</translation>
     </message>
     <message>
@@ -1544,7 +1544,7 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     <name>WelcomeSheet</name>
     <message>
         <source>Welcome to the APK Editor Studio.</source>
-        <extracomment>Don&apos;t translate the &quot;APK Editor Studio&quot; part.</extracomment>
+        <extracomment>Don't translate the 'APK Editor Studio' part.</extracomment>
         <translation>Bienvenue dans APK Editor Studio.</translation>
     </message>
     <message>
@@ -1612,7 +1612,7 @@ Toutes les modifications non enregistrées seront perdues.</translation>
     <name>YesAlwaysDialog</name>
     <message>
         <source>Yes, &amp;Always</source>
-        <extracomment>The &quot;&amp;&quot; is a shortcut key prefix, not an &quot;and&quot; conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
+        <extracomment>The '&amp;' is a shortcut key prefix, not an 'and' conjunction. Details: https://github.com/kefir500/apk-editor-studio/wiki/Translation-Guide#shortcuts</extracomment>
         <translation>Oui, tou&amp;jours</translation>
     </message>
 </context>
